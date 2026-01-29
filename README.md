@@ -12,6 +12,8 @@ A simple task management web application built with **React** and **Vite** — d
 > _More features like state management, backend integration, authentication, etc. can be added as needed._
 
 ---
+<img width="1919" height="900" alt="Screenshot 2026-01-29 201227" src="https://github.com/user-attachments/assets/020fdce1-de51-4b8a-a0c5-729dfb954518" />
+<img width="1919" height="878" alt="Screenshot 2026-01-29 201300" src="https://github.com/user-attachments/assets/e1540671-4dce-433d-a5e4-f67daac5f704" />
 
 ## 🛠 Tech Stack
 
@@ -23,6 +25,7 @@ This project uses the following technologies:
 - 📁 ES Modules & JSX for modular UI
 
 ---
+
 
 ## 📦 Getting Started
 
